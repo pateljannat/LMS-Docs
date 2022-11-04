@@ -15,6 +15,6 @@ Want to check out some existing sites that work on Frappe LMS? Below is a list o
  ## Get Started
 
  - [Setup your account](./get-started/setup-your-account.md)
- - [Create a Course](./get-started/create-a-course.md)
- - [Add a Chapter](./get-started//add-a-chapter.md)
- - [Add a Lesson](./get-started/add-a-lesson.md)
+ - [Create a Course](./course-creation/create-a-course.md)
+ - [Add a Chapter](./course-creation/add-a-chapter.md)
+ - [Add a Lesson](./course-creation/add-a-lesson.md)
