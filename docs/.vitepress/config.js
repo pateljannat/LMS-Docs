@@ -16,7 +16,6 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/x-icon', href: '../public/favicon.png' }],
     ['link', { rel: 'stylesheet', href:'../public/style.css' }]
   ],
-
   themeConfig: {
     logo: '/logo.png',
     siteTitle: false,
