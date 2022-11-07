@@ -4,7 +4,7 @@ Frappe LMS is an easy-to-use, open-source Learning Management System. It helps y
 
 ![Courses](./images/course-list.png)
 
-If you are a school or college, aiming to provide the best online learning experience to your students, or you are an organization that wants to have a smooth online employee onboarding, Frappe LMS will help you achieve your needs.
+If you are a School or College, wishing to provide the best online learning experience to your students, or you are an organization that wants to have a smooth online employee onboarding, Frappe LMS will help you achieve your needs.
 
 Want to check out some existing sites that work on Frappe LMS? Below is a list of some platforms that are powered by Frappe LMS:
 
