@@ -33,6 +33,16 @@ export default function sidebar() {
 			],
 		},
 		{
+			text: "Roles",
+			collapsible: false,
+			items: [
+				{
+					text: "Who can create a course",
+					link: "/roles/who-can-create-a-course"
+				}
+			]
+		},
+		{
 			text: "Miscellaneous",
 			collapsible: false,
 			items: [
