@@ -14,7 +14,7 @@ export default defineConfig({
   base: "/",
   head: [
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }],
-    ['link', { rel: 'stylesheet', href:'../public/style.css' }]
+    ['link', { rel: 'stylesheet', href:'/style.css' }]
   ],
   themeConfig: {
     logo: '/logo.png',
