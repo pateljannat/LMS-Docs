@@ -11,7 +11,7 @@ export default defineConfig({
   appearance: true,
   lastUpdated: true,
   outDir: "../dist",
-  base: "/",
+  base: "/lms-docs/",
   head: [
     ['link', { rel: 'icon', type: 'image/x-icon', href: '../public/favicon.png' }],
     ['link', { rel: 'stylesheet', href:'../public/style.css' }]
