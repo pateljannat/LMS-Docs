@@ -33,6 +33,16 @@ export default function sidebar() {
 			],
 		},
 		{
+			text: "Class Creation",
+			collapsible: false,
+			items: [
+				{
+                    text: "Create a Class",
+                    link: "/class-creation/create-a-class"
+                }
+			],
+		},
+		{
 			text: "Roles",
 			collapsible: false,
 			items: [
