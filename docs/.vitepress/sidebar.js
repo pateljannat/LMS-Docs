@@ -39,7 +39,11 @@ export default function sidebar() {
 				{
                     text: "Create a Class",
                     link: "/class-creation/create-a-class"
-                }
+                },
+				{
+					text: "Create a Live Class",
+					link: "/class-creation/create-a-live-class"
+				}
 			],
 		},
 		{
