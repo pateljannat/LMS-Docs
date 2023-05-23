@@ -17,14 +17,16 @@ You can click on the **Create a Course** button to create your very first course
 Fill out the form with the following details:
 
  - **Title:** Give your course an appropriate title.
- - **Tag:** Add relevant tags that will help users decide if this is the right course for them. A tag can indicate the difficulty level of a course, any prerequisites the course has, etc.
  - **Short Introduction:** A brief line describing what the course is about.
+ - **Description:** Add a detailed description about your course to help users know what your course will actually comprise.
  - **Preview Video Link:** A preview video will provide a teaser of the course. To add a preview video follow the steps mentioned [here](../miscellaneous/faq.md#how-to-add-youtube-video-in-a-lesson-or-for-course-preview).
+ - **Tag:** Add relevant tags that will help users decide if this is the right course for them. A tag can indicate the difficulty level of a course, any prerequisites the course has, etc.
  - **Image:** Attach an image that is relevant to your course.
  - **Publish:** A course will appear on the website to the users only when it is published. This setting is only visible to Course Moderators.
- - **Upcoming:** If a course is about to become available to users soon but not yet, mark it as Upcoming. Note that even for an upcoming course to be visible on the website, it should be published. This setting is also only visible to Course Moderators.
- - **Description:** Add a detailed description about your course to help users know what your course will actually comprise.
+ - **Upcoming:** If a course is about to become available to users soon but not yet, mark it as Upcoming. Note that even for an upcoming course to be visible on the website, it should be published. This setting is also only visible to Moderators.
 
- After adding all this information. You can save the course.
+After adding all this information. You can save the course.
 
- ![Course Saved](../images/course-saved.png)
+![Course Saved](../images/course-saved.png)
+
+When you save a course, you can then add chapters and lessons to it. To do so, click on the **Course Outline** button in the header next to the Course Title

@@ -1,8 +1,8 @@
 # Chapter
 
-A chapter forms the second layer in the LMS hierarchy. It is used to group lessons that belong to a certain topic.
+A chapter forms the second layer in the LMS hierarchy. It is used to group lessons that belong to the same topic.
 
-Once the user saves the course, they will see a Course Content section at the bottom. From there, users can add chapters to their courses. Add the following information to your chapter:
+You can add chapters from the Course Outline page. To add a chapter, click on the Add Chapter button. In the dialog, enter the following information.
 
  - **Chapter Name:** Add a title to your chapter.
  - **Short Description:** Provide a one-line description for your chapter.
