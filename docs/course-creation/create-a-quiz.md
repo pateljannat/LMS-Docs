@@ -4,7 +4,7 @@ Quiz help make lessons interactive and ensures a quick revision of concepts lear
 
 ![Quiz](../images/quiz-shot.png)
 
-To create a quiz, click on the **Create Quiz** button from the lesson page. You will be redirected to the Quiz List. The list will be empty if you have not created any quizzes yet. Click on **Add Quiz** to create a new quiz. You will be redirected to the quiz form.
+To create a quiz, from the lesson page, chose **Quiz** from the menu. From the dialog, click on the Create New button. click on the **Create Quiz** button from the lesson page. You will be redirected to the Quiz List. The list will be empty if you have not created any quizzes yet. Click on **Add Quiz** to create a new quiz. You will be redirected to the quiz form.
 
 ![Quiz List](../images/quiz-list.png)
 
@@ -27,9 +27,9 @@ If your question type is User Input, then enter information in the following fie
 ![Quiz Form](../images/quiz-form.png)
 
 ::: tip Add more questions
-To add more questions click on the **New Question** button.
+To add more questions click on the **Add Question** button.
 :::
 
-Once you have entered all the information you can save the quiz. You will notice an entry for the quiz in the quiz list. You can copy the quiz id from the list using the **Copy Quiz ID** button. Then you can paste it in the lessons Quiz ID field where you want the quiz.
+Once you have entered all the information you can save the quiz. You will notice an entry for the quiz in the quiz list. You can then go back to the lesson and add this quiz to the lesson.
 
 ![Quiz List](../images/quiz-list-data.png)

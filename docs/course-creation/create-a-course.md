@@ -6,7 +6,7 @@ A course is the primary entity of an LMS. This is the structure that a course in
 
 ## Create a Course
 
-From the workspace, when you visit the portal, you will land on the Course List page. This page has various sections like Live, Upcoming, Enrolled, etc. But there is no information in them. Because you have done any activity on the LMS yet.
+From the workspace, when you visit the portal, you will land on the Course List page. This page has various sections like Live, Upcoming, Enrolled, etc. But there is no information in them. Because you have not done any activity on the LMS yet.
 
 ![Empty State](../images/empty.png)
 
