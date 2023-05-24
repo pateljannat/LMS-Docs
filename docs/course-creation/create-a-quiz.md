@@ -31,5 +31,3 @@ To add more questions click on the **Add Question** button.
 :::
 
 Once you have entered all the information you can save the quiz. You will notice an entry for the quiz in the quiz list. You can then go back to the lesson and add this quiz to the lesson.
-
-![Quiz List](../images/quiz-list-data.png)
