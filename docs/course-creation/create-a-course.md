@@ -29,4 +29,4 @@ After adding all this information. You can save the course.
 
 ![Course Saved](../images/course-saved.png)
 
-When you save a course, you can then add chapters and lessons to it. To do so, click on the **Course Outline** button in the header next to the Course Title
+When you save a course, you can then add chapters and lessons to it. To do so, click on the **Course Outline** button in the header next to the Course Title.

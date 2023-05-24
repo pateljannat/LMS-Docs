@@ -1,12 +1,34 @@
 # Introduction
 
-Frappe LMS is an easy-to-use, open-source Learning Management System. It helps you set up your own learning platform. You can create courses and share them with your target audience. The lessons in your course can be in the form of text, videos, quizzes, or even assignments.
+Frappe LMS is an easy-to-use, open-source Learning Management System. It helps you set up your own learning platform.
 
 ![Courses](./images/course-list.png)
 
-## Who case use Frappe LMS
- - Organization that wants to have a smooth online employee onboarding and knowledge tranfer.
- - School or College, wishing to provide the best online learning experience to their students.
+## What can you do with Frappe LMS
+
+📚 Create and share online courses with your target audience.
+
+📝 Create interesting and interactive lessons in the form of text, videos, quizzes, etc.
+
+💬 Solve queries of your students using the discussion section.
+
+🏛 Group your students into classes to track their progress better
+
+💻 Conduct live classes by integrating your zoom account with the LMS
+
+📈 Keep a watch on important numbers like signup and enrolment count using the Statistics Dashboard
+
+💼 Help your students find career opportunities using the Job Board.
+
+## Who can use Frappe LMS
+
+🚀 Organisations wanting to train their employees internally
+
+🚀 Company’s wanting to train their users about their products
+
+🚀 Schools and Universities who wish to have their study material available online for their students.
+
+🚀 Entrepreneurs/Freelancers/Influencers who want to share their knowledge and experience with others out there.
 
 ## Platforms using Frappe LMS
 
