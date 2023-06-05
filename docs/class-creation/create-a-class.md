@@ -15,7 +15,7 @@ To create a new class click on the **Create Class** button. Enter the following 
 
 After entering all these details, save the form. Your class will be available in the class list. Click on the class to check out the details.
 
-![Class List](../images/`class-list`.png)
+![Class List](../images/class-list.png)
 From the class details page, you can add courses and students. From the **Courses** tab, select the courses you want.
 
 ![Class Courses](../images/class-courses.png)
