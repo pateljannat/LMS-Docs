@@ -13,7 +13,7 @@ export default defineConfig({
   outDir: "../dist",
   base: "/",
   head: [
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }],
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/frappe-favicon.svg' }],
     ['link', { rel: 'stylesheet', href:'/style.css' }]
   ],
   themeConfig: {
