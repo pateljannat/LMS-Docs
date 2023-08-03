@@ -22,3 +22,5 @@ To grant users certificate for a course once they have completed it, follow thes
  - Save
 
  Once this configuration is done, users will be able to get a certificate once they complete a course.
+
+![Certificate After Completion](../images/cerificate-after-completion.png)
