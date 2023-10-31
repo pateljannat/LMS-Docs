@@ -12,7 +12,7 @@ Frappe LMS is an easy-to-use, open-source Learning Management System. It helps y
 
 💬 Solve queries of your students using the discussion section.
 
-🏛 Group your students into classes to track their progress better
+🏛 Group your students into batches to track their progress better
 
 💻 Conduct live classes by integrating your zoom account with the LMS
 

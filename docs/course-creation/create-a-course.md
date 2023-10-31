@@ -30,3 +30,9 @@ After adding all this information. You can save the course.
 ![Course Saved](../images/course-saved.png)
 
 When you save a course, you can then add chapters and lessons to it. To do so, click on the **Course Outline** button in the header next to the Course Title.
+
+## Paid Course
+
+If you want to users to pay a certain amount before they enroll for the course, you can make it a paid course. When creating a course, enable the Paid Course checkbox. Then enter the amount and currency. Save the course. Students will then have to pay the amount to enroll for the course.
+
+![Paid Course](../images/paid-course.png)
