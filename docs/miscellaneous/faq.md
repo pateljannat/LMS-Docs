@@ -24,3 +24,11 @@ To grant users certificate for a course once they have completed it, follow thes
  Once this configuration is done, users will be able to get a certificate once they complete a course.
 
 ![Certificate After Completion](../images/cerificate-after-completion.png)
+
+## How to setup Razorpay Account on LMS
+
+Make sure you have a Razorpay account created for accepting payments. If you don't you can create one from [here](https://razorpay.com/)
+
+Once you have your Razorpay account ready, you can proceed to the LMS Settings doctype to add these details there.
+
+In the LMS Settings doctype open the tab called Payment Settings. Here add details like your Razorpay Key, Razorpay Secret. Then save the settings. You can now start receivig payment on LMS.

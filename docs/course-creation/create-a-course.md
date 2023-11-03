@@ -36,3 +36,6 @@ When you save a course, you can then add chapters and lessons to it. To do so, c
 If you want to users to pay a certain amount before they enroll for the course, you can make it a paid course. When creating a course, enable the Paid Course checkbox. Then enter the amount and currency. Save the course. Students will then have to pay the amount to enroll for the course.
 
 ![Paid Course](../images/paid-course.png)
+
+::: tip Note
+In order to receive payments from students make sure that you have [configured you Razorpay Account details in LMS Settings](../miscellaneous/faq.md#how-to-setup-razorpay-account-on-lms)
