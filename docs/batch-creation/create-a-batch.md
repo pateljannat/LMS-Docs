@@ -42,7 +42,7 @@ From the **Students** tab, you can add students manually. All you have to do is 
 
 To add assessments click on the assessment tab. Assessments in Frappe LMS are of two types, Quizzes and Assignments. You can add both of them from the assessment tab.
 
-![Batch Assessments](../images/class-assessments.png)
+![Batch Assessments](../images/batch-assessments.png)
 
 Once the courses and students are added to the batch you can click on the student's name to check their progress. The progress page will list all the quizzes and assignments of the batch. It will also show the score and status that a student has received for the activity. The progress page also lists the evaluation attempts of the student. It shows if a student has passed the evaluation or not.
 
