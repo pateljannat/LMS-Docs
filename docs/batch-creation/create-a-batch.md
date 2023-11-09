@@ -52,4 +52,4 @@ Once the courses and students are added to the batch you can click on the studen
 
 On this batch page a student also sees their dashboard. The dashboard shows the student's progress in the batch. Students can also schedule evaluations from the dashboard. The dashboard also shows the upcoming scheduled evaluations of the student.
 
-![Student Dashboard](../images/student-dashboard.png)
+![Student Dashboard](../images/batch-dashboard.png)
