@@ -33,16 +33,16 @@ export default function sidebar() {
 			],
 		},
 		{
-			text: "Class Creation",
+			text: "Batch Creation",
 			collapsible: false,
 			items: [
 				{
-                    text: "Create a Class",
-                    link: "/class-creation/create-a-class"
+                    text: "Create a Batch",
+                    link: "/batch-creation/create-a-batch"
                 },
 				{
 					text: "Create a Live Class",
-					link: "/class-creation/create-a-live-class"
+					link: "/batch-creation/create-a-live-class"
 				}
 			],
 		},
