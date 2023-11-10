@@ -53,3 +53,9 @@ Once the courses and students are added to the batch you can click on the studen
 On this batch page a student also sees their dashboard. The dashboard shows the student's progress in the batch. Students can also schedule evaluations from the dashboard. The dashboard also shows the upcoming scheduled evaluations of the student.
 
 ![Student Dashboard](../images/batch-dashboard.png)
+
+## Student Emails
+
+The emails tab of batch is only visible to the moderators. From here they can send emails to all the students of the batch. The emails tab also shows the emails that have been sent to the students.
+
+![Batch Emails](../images/batch-emails.png)
