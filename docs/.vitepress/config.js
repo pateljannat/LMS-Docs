@@ -1,11 +1,11 @@
 import { defineConfig } from 'vitepress';
 import sidebar from './sidebar';
 
-const tagline = 'Easy to Use, Open Source Learning Management System';
+const tagline = 'Frappe LMS';
 
 export default defineConfig({
   lang: 'en-US',
-  title: 'Frappe LMS',
+  title: tagline,
   description: tagline,
   titleTemplate: tagline,
   appearance: true,
@@ -13,11 +13,11 @@ export default defineConfig({
   outDir: "../dist",
   base: "/",
   head: [
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/frappe-favicon.svg' }],
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/lms-logo.png' }],
     ['link', { rel: 'stylesheet', href:'/style.css' }]
   ],
   themeConfig: {
-    logo: '/logo.png',
+    logo: '/lms-logo.png',
     siteTitle: false,
     nav: nav(),
     sidebar: sidebar(),
